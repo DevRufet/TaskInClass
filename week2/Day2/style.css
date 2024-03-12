@@ -1,0 +1,60 @@
+.light{
+    border: 3px solid rgb(161, 9, 232);
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: rgb(252, 226, 192); 
+}
+.light__1{
+    display: flex;
+     justify-content: space-between;
+     margin: 50px;
+}
+.light__small{
+    width: 490px;
+    height: 230px;
+    border: 1px solid black;
+    margin-left: 50px;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 15px;
+    margin-left: 280px;
+    object-fit: cover;
+    object-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/premium-photo/beautiful-young-asian-woman-portrait-cute-girl-wallpaper-background-photo_877869-8944.jpg");
+}
+.Bethan{
+    border: 1px solid rgb(252, 226, 192)
+    width: 150px;
+    height: 20px;
+    margin-top: -210px;
+    margin-left: 50px;
+}
+.about{
+    border: 1px solid rgb(252, 226, 192);
+    width: 260px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.a1{
+    border: 1px solid rgb(252, 226, 192);
+    width: 100px;
+    height: 50px;
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.icon{
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -30px;
+    margin-left: 20px;
+}
